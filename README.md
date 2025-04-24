@@ -110,4 +110,10 @@ Les contributions sont les bienvenues ! Pour participer :
 
 ## 📄 Licence
 
-Ce projet est sous licence **MIT**. Consultez le fichier [`LICENSE`](./LICENSE) pour plus de détails.
+![image](https://github.com/user-attachments/assets/673ff4dd-7a43-4295-9d58-441ac045c56e)
+![image](https://github.com/user-attachments/assets/fab2d549-1d00-4b0b-8486-24ba179c5d7f)
+![image](https://github.com/user-attachments/assets/6038e48a-84f7-44bf-b677-90b24a98e2c7)
+![image](https://github.com/user-attachments/assets/a0a5654a-f964-421f-98f3-89fd6f26f457)
+![image](https://github.com/user-attachments/assets/8bc1b576-6237-49f2-9abe-256d4fd5ab1c)
+![image](https://github.com/user-attachments/assets/f34fbaed-34e5-43c3-9f40-ff45cd784221)
+![image](https://github.com/user-attachments/assets/42852032-ef59-428a-816a-66372a6a912b)
