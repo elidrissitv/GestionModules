@@ -1,4 +1,4 @@
-<div align="center"> <img src="https://github.com/user-attachments/assets/21e3c886-2347-4ad4-8d57-67d5541307d2"> </div>
+<div align="center"> <img width="50px" height="50px" src="https://github.com/user-attachments/assets/21e3c886-2347-4ad4-8d57-67d5541307d2"> </div>
 # 📚 Gestion des Modules
 **Une application Android intuitive pour la gestion des modules d'enseignement.**
 
